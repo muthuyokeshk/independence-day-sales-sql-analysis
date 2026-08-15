@@ -50,3 +50,12 @@ Independence-Day-Sales-Analysis/
     ├── 04_date_analysis.sql
     ├── 05_case_statements.sql
     └── 06_subqueries.sql
+
+## 📊 Key Insights
+
+- Total Sales: ₹36,04,440
+- Total Transactions: 50
+- Average Sales per Transaction: ₹72,088.80
+- Top-Selling Product: Smartphone — ₹9,33,000
+- Top City by Sales: Chennai — ₹11,16,600
+- Top State by Sales: Tamil Nadu — ₹13,83,655
